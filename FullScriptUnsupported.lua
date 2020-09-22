@@ -154,7 +154,7 @@ local TextLabel_11 = Instance.new("TextLabel")
 ScreenGui.Parent = game.CoreGui
 ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/matttMP/HatHubArchive/master/Main-tUUGAeaH.lua?token=AP5UCZ2DV56Z7ULQCWMGQMC7NJOTW", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/matttMP/HatHubArchive/master/Main-tUUGAeaH.lua", true))()
 
 spoof(game.Players.LocalPlayer, "MaximumSimulationRadius", 1000)
 spoof(game.Players.LocalPlayer, "SimulationRadius", 1000)
@@ -1952,7 +1952,7 @@ Align(Hat5.Handle, RArm, Vector3.new(0,0,0), Vector3.new(90,0,0))
 Align(Hat6.Handle, Head, Vector3.new(0,0.5,0), Vector3.new(0,0,0))
 
 wait(0.5)
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/matttMP/HatHubArchive/master/Naruto.lua?token=AP5UCZ6D5PWZUHYRY5YXOLS7NJPI4'),true))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/matttMP/HatHubArchive/master/Naruto.lua'),true))()
 end)
 
 StrongStand.Name = "Strong Stand"
@@ -9696,7 +9696,7 @@ game.Players.LocalPlayer.Character.Humanoid.HipHeight = 1
 
 
 wait(0.2)
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/matttMP/HatHubArchive/master/Hoverboard.lua?token=AP5UCZ53EA6WBVY73VX4Q5K7NJPMK'),true))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/matttMP/HatHubArchive/master/Hoverboard.lua'),true))()
 end)
 
 Trashcan.Name = "Trashcan"
@@ -9826,7 +9826,7 @@ Align(Hat6.Handle, Torso, Vector3.new(0,0.3,0), Vector3.new(0,40,0))
 Align(Hat7.Handle, Torso, Vector3.new(0,2,0), Vector3.new(0,0,0))
 
 wait(0.1)
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/matttMP/HatHubArchive/master/Trashcan.lua?token=AP5UCZ3RMLMPMCMOSAVTYWC7NJPO4'),true))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/matttMP/HatHubArchive/master/Trashcan.lua'),true))()
 end)
 
 Fairy.Name = "Fairy"
@@ -9938,7 +9938,7 @@ Align(Hat1.Handle, Torso, Vector3.new(0,0,0.1), Vector3.new(0,0,0))
 Hat1.Handle.Mesh.Scale = Vector3.new(6,6,6)
 
 wait(0.5)
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/matttMP/HatHubArchive/master/Fairy.lua?token=AP5UCZ76IBCR447Q55VYTHS7NJPQW'),true))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/matttMP/HatHubArchive/master/Fairy.lua'),true))()
 end)
 
 NoobDance.Name = "NoobDance"
@@ -10064,7 +10064,7 @@ Align(Hat5.Handle, RArm, Vector3.new(0,0,0), Vector3.new(90,0,0))
 Align(Hat6.Handle, Head, Vector3.new(0,0.1,0), Vector3.new(0,0,0))
 
 wait(0.5)
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/matttMP/HatHubArchive/master/Noobdance.lua?token=AP5UCZ4AJM7UCRFL5P452XS7NJPTQ'),true))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/matttMP/HatHubArchive/master/Noobdance.lua'),true))()
 end)
 
 Knight.Name = "Knight"
